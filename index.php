@@ -6,6 +6,6 @@
     <title>PHP 1</title>
 </head>
 <body>
-    <?php echo 'Hello World';?>
+    <?php echo 'GIT HUB UROK';?>
 </body>
 </html>
